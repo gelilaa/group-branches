@@ -13,4 +13,4 @@ At HYF, i'm trying to **commit** part of my time to learning something new and h
 Nice too meet you! :)
 
 
-[Gelila](gelila.md)| [ Fatih](fitah.md)
+[Gelila](gelila.md)| [Fatih](fatih.md)
